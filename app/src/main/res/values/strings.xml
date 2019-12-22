@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">CocCocHomeTest</string>
+    <string name="home_error_text">Xãy ra lỗi khi tải dữ liệu!</string>
+
+    <!--Count Up View-->
+    <string name="count_up_just_happen">Vừa mới đây</string>
+    <string name="ts_minute">%d phút trước</string>
+    <string name="ts_hour">%d giờ trước</string>
+    <string name="ts_day">%d ngày trước</string>
 </resources>
